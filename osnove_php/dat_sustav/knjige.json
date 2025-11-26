@@ -1,0 +1,37 @@
+[
+{
+    "naziv":"Programiranje u PHP-u",
+    "autor":"Branko Topic",
+    "dostupnost":true,
+    "stranice":399,
+    "godina":2010
+},
+{
+    "naziv":"Uvod u baze podataka",
+    "autor":"Branko Cubrilo",
+    "dostupnost":true,
+    "stranice": 578,
+"godina": 2002
+},
+{
+"naziv": "Napredni JavaScript",
+"autor": "Mirko Maleković",
+"dostupnost":false,
+"stranice": 400,
+"godina": 2017
+},
+{
+"naziv": "Algoritmi u primjeni",
+"autor": "Oliver Code",
+"dostupnost": true,
+"stranice": 859,
+"godina": 2022
+},
+{
+"naziv": "Algoritmi u primjeni",
+"autor": "Oliver Code",
+"dostupnost": true,
+"stranice": 859,
+"godina": 2022
+}
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "mbr": "1001",
+        "ime": "Ivana",
+        "prezime": "Marić",
+        "status": "redovni"
+    },
+    {
+        "mbr": "1002",
+        "ime": "Marko",
+        "prezime": "Horvat",
+        "status": "izvanredni"
+    },
+    {
+        "mbr": "1003",
+        "ime": "Ana",
+        "prezime": "Kovač",
+        "status": "redovni"
+    },
+    {
+        "mbr": "1004",
+        "ime": "Branimir",
+        "prezime": "Branimiric",
+        "status": "redovni"
+    }
+    
+]

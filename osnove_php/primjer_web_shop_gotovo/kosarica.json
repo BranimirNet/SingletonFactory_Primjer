@@ -1,0 +1,86 @@
+[
+    {
+        "idKupovine": 1,
+        "idUser": 2,
+        "sifraProizvod": 103,
+        "kolicina": 1,
+        "datum_vrijeme": "2025-10-01 20:03:31"
+    },
+    {
+        "idKupovine": 1,
+        "idUser": 2,
+        "sifraProizvod": 104,
+        "kolicina": 2,
+        "datum_vrijeme": "2025-10-01 20:03:31"
+    },
+    {
+        "idKupovine": 1,
+        "idUser": 2,
+        "sifraProizvod": 105,
+        "kolicina": 1,
+        "datum_vrijeme": "2025-10-01 20:03:31"
+    },
+    {
+        "idKupovine": 2,
+        "idUser": 2,
+        "sifraProizvod": 101,
+        "kolicina": 1,
+        "datum_vrijeme": "2025-10-01 20:05:29"
+    },
+    {
+        "idKupovine": 2,
+        "idUser": 2,
+        "sifraProizvod": 102,
+        "kolicina": 2,
+        "datum_vrijeme": "2025-10-01 20:05:29"
+    },
+    {
+        "idKupovine": 2,
+        "idUser": 2,
+        "sifraProizvod": 103,
+        "kolicina": 1,
+        "datum_vrijeme": "2025-10-01 20:05:29"
+    },
+    {
+        "idKupovine": 3,
+        "idUser": 3,
+        "sifraProizvod": 103,
+        "kolicina": 1,
+        "datum_vrijeme": "2025-10-02 18:17:32"
+    },
+    {
+        "idKupovine": 3,
+        "idUser": 3,
+        "sifraProizvod": 104,
+        "kolicina": 1,
+        "datum_vrijeme": "2025-10-02 18:17:32"
+    },
+    {
+        "idKupovine": 3,
+        "idUser": 3,
+        "sifraProizvod": 105,
+        "kolicina": 2,
+        "datum_vrijeme": "2025-10-02 18:17:32"
+    },
+    {
+        "idKupovine": 4,
+        "idUser": 1,
+        "sifraProizvod": 101,
+        "kolicina": 1,
+        "datum_vrijeme": "2025-10-02 18:47:48"
+    },
+    {
+        "idKupovine": 4,
+        "idUser": 1,
+        "sifraProizvod": 103,
+        "kolicina": 1,
+        "datum_vrijeme": "2025-10-02 18:47:48"
+    },
+    {
+        "idKupovine": 4,
+        "idUser": 1,
+        "sifraProizvod": 106,
+        "kolicina": 1,
+        "datum_vrijeme": "2025-10-02 18:47:48"
+    }
+]

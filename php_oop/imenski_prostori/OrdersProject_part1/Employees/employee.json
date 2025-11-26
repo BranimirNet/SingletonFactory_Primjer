@@ -1,0 +1,14 @@
+[
+    {
+        "employeeNumber": 3333,
+        "firstName": "Marty",
+        "lastName": "Fox",
+        "email": "marty@mail.com"
+    },
+    {
+        "employeeNumber": 1234,
+        "firstName": "Dock",
+        "lastName": "Savage",
+        "email": "dock@mail.com"
+    }
+]

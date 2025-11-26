@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Kalkulator – POST metoda</title>
+</head>
+<body>
+    <h2>Kalkulator</h2>
+    <form action="izracun.php" method="POST">
+        <label>Prvi broj:
+            <input type="text" name="broj1" required>
+        </label>
+        <br><br>
+        <label>Drugi broj:
+            <input type="text" name="broj2" required>
+        </label>
+        <br><br>
+        <label>Operacija:
+            <select name="operacija">
+                <option value="zbrajanje">Zbrajanje</option>
+                <option value="oduzimanje">Oduzimanje</option>
+                <option value="mnozenje">Množenje</option>
+                <option value="dijeljenje">Dijeljenje</option>
+                <option value="ostatak">Ostatak</option>
+            </select>
+        </label>
+        <br><br>
+        <button type="submit">Izračunaj</button>
+    </form>
+</body>
+</html>

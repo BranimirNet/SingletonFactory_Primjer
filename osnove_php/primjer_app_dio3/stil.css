@@ -1,0 +1,102 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+h2{
+    color: #333;
+}
+h3{
+    margin-top: 20px;
+}
+table{
+    border-collapse: collapse;
+    width: 80%;
+    margin-bottom: 20px;
+}
+th,td{
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
+th{
+    background-color: #eee;
+}
+
+.valutaformat{
+    text-align: right;
+}
+
+a, button{
+    padding: 5px 10px;
+    margin: 2px; text-decoration: none;
+    background: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 10px;
+}
+
+a:hover, button:hover{
+    background: #0056b3;
+}
+
+.kupibtn{
+    background: #ff5e00;
+    color:#333;
+    font-size: 12px;
+}
+
+#zaglavlje{
+    padding: 20px;
+    background-color: #b3abab;
+    top: 0;
+    left: 0;
+    width: 100%;
+    position: fixed;
+}
+
+#zaglavlje a{
+    background-color: #56aad1;
+    font-size: 14px;
+}
+
+#zaglavlje .user{
+    float: right;
+    font-weight: bold;
+    margin-right: 50px;
+}
+
+#sadrzaj{
+    margin-top: 80px;
+}
+
+#sadrzaj label{
+    display: block;
+    margin-top: 10px;
+}
+
+#sadrzaj .error{
+    color: red;
+    font-weight: bold;
+}
+
+input[type="text"],input[type="password"]{
+padding: 5px;
+}
+
+input[type="submit"]{
+padding: 5px;
+margin-top: 10px;
+}
+
+#podnozje{
+    padding: 20px;
+    background-color: #b3abab;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}

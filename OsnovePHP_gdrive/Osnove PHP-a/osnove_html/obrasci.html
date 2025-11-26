@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Comaptible" content="ie=edge">
+        <title>Osnove HTML - obraci</title>
+    </head>
+
+    <body>
+
+        <h2>Obrazac</h2>
+
+        <form>
+        <p>Ime i prezime: <input type="text" name="imeprezime" id="imeprezime" value="Pero"></p>
+        <p>Grad: 
+           <select name="grad">
+            <option value="zg">Zagreb</option>
+            <option value="st">Split</option>
+            <option value="ri" selected>Rijeka</option>
+            <option value="os">Osijek</option>
+           </select>     
+        </p>
+        <p>Datum rođenja:
+            <input type="date" name="datumrodjenja">
+        </p>
+        <p>
+            Spol:
+            <br><input type="radio" name="spol" value="m" checked> Muški
+            <br><input type="radio" name="spol" value="z"> Ženski
+        </p>
+        <p>
+            Sportovi:
+            <br><input type="checkbox" name="sportovi" value="nog">Nogomet
+            <br><input type="checkbox" name="sportovi" value="ruk" checked>Rukomet
+            <br><input type="checkbox" name="sportovi" value="kos">Košarka
+        </p>
+        <p>
+            Kratak opis:<br>
+            <textarea name="opis" rows="8" cols="16"></textarea>
+        </p>
+        <p>
+            <input type="submit" value="Posalji">
+        </p>
+    </form>
+    </body>
+</html>

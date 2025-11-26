@@ -1,0 +1,72 @@
+[
+    {
+        "ime_prezime": "Nikola Novak",
+        "grad": "Požega",
+        "godina_rod": 1993,
+        "placa": 2017,
+        "status_zaposlenja": false
+    },
+    {
+        "ime_prezime": "Lana Lazić",
+        "grad": "Knin",
+        "godina_rod": 1985,
+        "placa": 2168,
+        "status_zaposlenja": false
+    },
+    {
+        "ime_prezime": "Sara Sarić",
+        "grad": "Varaždin",
+        "godina_rod": 1991,
+        "placa": 2719,
+        "status_zaposlenja": false
+    },
+    {
+        "ime_prezime": "Marko Marić",
+        "grad": "Zadar",
+        "godina_rod": 1993,
+        "placa": 2804,
+        "status_zaposlenja": true
+    },
+    {
+        "ime_prezime": "Tomislav Tomašić",
+        "grad": "Bjelovar",
+        "godina_rod": 1991,
+        "placa": 2210,
+        "status_zaposlenja": false
+    },
+    {
+        "ime_prezime": "Lana Lazić",
+        "grad": "Šibenik",
+        "godina_rod": 2001,
+        "placa": 2654,
+        "status_zaposlenja": false
+    },
+    {
+        "ime_prezime": "Ivana Horvat",
+        "grad": "Koprivnica",
+        "godina_rod": 2004,
+        "placa": 2040,
+        "status_zaposlenja": false
+    },
+    {
+        "ime_prezime": "Marko Marić",
+        "grad": "Rijeka",
+        "godina_rod": 2000,
+        "placa": 3520,
+        "status_zaposlenja": false
+    },
+    {
+        "ime_prezime": "Marija Marinić",
+        "grad": "Karlovac",
+        "godina_rod": 1991,
+        "placa": 3695,
+        "status_zaposlenja": false
+    },
+    {
+        "ime_prezime": "Petar Perić",
+        "grad": "Split",
+        "godina_rod": 1985,
+        "placa": 2798,
+        "status_zaposlenja": true
+    }
+]

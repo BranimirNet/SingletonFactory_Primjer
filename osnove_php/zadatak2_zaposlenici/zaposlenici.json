@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "ime": "Jack",
+        "prezime": "Bauer",
+        "datumrodjenja": "13.6.1996.",
+        "sprema": "-1",
+        "odbzanimanja": [
+            "13"
+        ],
+        "email": "asd@mail.com",
+        "slika": "slike\/",
+        "placa": 1000,
+        "aktivan": false
+    }
+]

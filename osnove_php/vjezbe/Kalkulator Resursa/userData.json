@@ -1,0 +1,4 @@
+[
+  {"idUser":1, "userName":"Branimir", "password":"brane123","gender":"f"},
+  {"idUser":2, "userName":"Kristina", "password":"kika123","gender":"m"},
+]

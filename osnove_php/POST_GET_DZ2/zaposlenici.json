@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "ime": "Jack",
+        "prezime": "Bauer",
+        "datumrodjenja": "1957-09-23",
+        "sprema": "11",
+        "odbzanimanja": [
+            "10",
+            "11"
+        ],
+        "email": "jack@mail.com",
+        "slika": "slike\/jack_bauer.jpg",
+        "placa": "2501",
+        "aktivan": true,
+        "datumazur": "2025-09-25 19:29:07"
+    },
+    {
+        "id": 3,
+        "ime": "Angelina",
+        "prezime": "Jolie",
+        "datumrodjenja": "1987-12-15",
+        "sprema": "12",
+        "odbzanimanja": [
+            "11",
+            "12"
+        ],
+        "email": "ajolie@mail.com",
+        "slika": "slike\/ajolie.jpg",
+        "placa": 3883.23,
+        "aktivan": true,
+        "datumazur": "2025-09-25 19:22:30"
+    },
+    {
+        "id": 4,
+        "ime": "Jason",
+        "prezime": "Statham",
+        "datumrodjenja": "1948-10-25",
+        "sprema": "11",
+        "odbzanimanja": [
+            "11",
+            "12"
+        ],
+        "email": "jason@mail.com",
+        "slika": "slike\/jstatham.jpg",
+        "placa": 8383,
+        "aktivan": true,
+        "datumazur": "2025-09-25 19:28:39"
+    }
+]

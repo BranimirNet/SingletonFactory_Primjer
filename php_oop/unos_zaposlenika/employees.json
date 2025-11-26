@@ -1,0 +1,46 @@
+[
+    {
+        "firstName": "Nick",
+        "lastName": "Doyle",
+        "jobTitle": "Programer",
+        "email": "ndoyle@mail.com",
+        "officeCode": "48000",
+        "reportsTo": "1",
+        "salary": "1000",
+        "status": "Active",
+        "country": "USA"
+    },
+    {
+        "firstName": "Anne",
+        "lastName": "Despot",
+        "jobTitle": "Manager",
+        "email": "anne@mail.com",
+        "officeCode": "10000",
+        "reportsTo": "48000",
+        "salary": "1400",
+        "status": "Active",
+        "country": "USA"
+    },
+    {
+        "firstName": "Roger",
+        "lastName": "Roggie",
+        "jobTitle": "Bagerist",
+        "email": "roggie@mail.com",
+        "officeCode": "10000",
+        "reportsTo": "5",
+        "salary": "2000",
+        "status": "Active",
+        "country": "USA"
+    },
+    {
+        "firstName": "Bubi",
+        "lastName": "Bubic",
+        "jobTitle": "Bubator",
+        "email": "bubi@mail.com",
+        "officeCode": "10000",
+        "reportsTo": "5",
+        "salary": "2500",
+        "status": "Active",
+        "country": "USA"
+    }
+]

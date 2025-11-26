@@ -1,0 +1,38 @@
+[
+    {
+        "Niz": "kisik",
+        "Palindrom": "Da",
+        "Samoglasnici": 2,
+        "Suglasnici": 3,
+        "BrojRijeci": 1,
+        "ImaBroj": "Ne",
+        "StatusString": "Potpuni string"
+    },
+    {
+        "Niz": "vodenica",
+        "Palindrom": "Ne",
+        "Samoglasnici": 4,
+        "Suglasnici": 4,
+        "BrojRijeci": 1,
+        "ImaBroj": "Ne",
+        "StatusString": "Potpuni string"
+    },
+    {
+        "Niz": "need4speed",
+        "Palindrom": "Ne",
+        "Samoglasnici": 4,
+        "Suglasnici": 6,
+        "BrojRijeci": 2,
+        "ImaBroj": "Da",
+        "StatusString": "Nepotpuni string"
+    },
+    {
+        "Niz": "sir ima Miris",
+        "Palindrom": "Da",
+        "Samoglasnici": 5,
+        "Suglasnici": 8,
+        "BrojRijeci": 3,
+        "ImaBroj": "Ne",
+        "StatusString": "Potpuni string"
+    }
+]

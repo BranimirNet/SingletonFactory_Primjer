@@ -1,0 +1,27 @@
+[
+    {
+        "customerNumber": 1002,
+        "customerName": "Fokus data d.o.o",
+        "country": "Slovenia"
+    },
+    {
+        "customerNumber": 1003,
+        "customerName": "Info data d.o.o",
+        "country": "Croatia"
+    },
+    {
+        "customerNumber": 1004,
+        "customerName": "NodeJS d.o.o",
+        "country": "Hungary"
+    },
+    {
+        "customerNumber": 1004,
+        "customerName": "NodeJS d.o.o",
+        "country": "Hungary"
+    },
+    {
+        "customerNumber": 22335,
+        "customerName": "Delux Trade",
+        "country": "Slovenia"
+    }
+]

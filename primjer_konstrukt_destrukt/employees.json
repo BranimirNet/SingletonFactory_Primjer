@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "Nick",
+        "lastName": "Doyle",
+        "jobTitle": "Sales"
+    },
+    {
+        "firstName": "Anne",
+        "lastName": "Despot",
+        "jobTitle": "Manager"
+    },
+    {
+        "firstName": "Roger",
+        "lastName": "Watson",
+        "jobTitle": "Sales Manager"
+    },
+    {
+        "firstName": "Danny",
+        "lastName": "Moore",
+        "jobTitle": "Worker"
+    },
+    {
+        "firstName": "Axel",
+        "lastName": "Foley",
+        "jobTitle": "Actor"
+    },
+    {
+        "firstName": "Billy",
+        "lastName": "Duke",
+        "jobTitle": "Manager"
+    }
+]

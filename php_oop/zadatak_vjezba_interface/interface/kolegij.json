@@ -1,0 +1,23 @@
+[
+    {
+        "kolegijid": "P101",
+        "naziv": "Programiranje 1",
+        "ects_bodovi": 6
+    },
+    {
+        "kolegijid": "B202",
+        "naziv": "Baze podataka",
+        "ects_bodovi": 5
+    },
+    {
+        "kolegijid": "W303",
+        "naziv": "Web programiranje",
+        "ects_bodovi": 7
+    },
+    {
+        "kolegijid": "W403",
+        "naziv": "Developing",
+        "ects_bodovi": 12
+    }
+    
+]

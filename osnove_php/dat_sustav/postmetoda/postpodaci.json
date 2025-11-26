@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "ime": "Pero",
+        "godine": "35",
+        "grad": "Osijek",
+        "spol": "Muški",
+        "sportovi": "Nogomet, Rukomet, ",
+        "opis": "Osijek grad"
+    },
+    {
+        "id": 2,
+        "ime": "Ana",
+        "godine": "22",
+        "grad": "Rijeka",
+        "spol": "Ženski",
+        "sportovi": "Rukomet, Odbojka, Vatrepol, ",
+        "opis": "Dolazim iz rijeke!"
+    },
+    {
+        "id": 3,
+        "ime": "Ana",
+        "godine": "22",
+        "grad": "Rijeka",
+        "spol": "Ženski",
+        "sportovi": "Rukomet, Odbojka, Vatrepol, ",
+        "opis": "Dolazim iz rijeke!"
+    }
+]

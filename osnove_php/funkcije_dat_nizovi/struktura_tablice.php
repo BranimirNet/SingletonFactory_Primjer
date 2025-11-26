@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Osnove HTML - tablice</title>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 60%;
+        }
+
+        th {
+            background-color: aqua;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+    </style>
+</head>
+<body>
+    <?php
+        echo "<h1>Tablice</h1>";
+    ?>
+
+    <table border="1">
+        <tr>
+            <th>Redni broj</th>
+            <th>Ime i prezime</th>
+            <th>Plaća</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Pero Perić</td>
+            <td>5500.00</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Ana Anić</td>
+            <td>6100.00</td>
+        </tr>
+        <tr>
+            <td colspan="2">Ukupno</td>
+            <td>11600.00</td>
+        </tr>
+    </table>
+</body>
+</html>

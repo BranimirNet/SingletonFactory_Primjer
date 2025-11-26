@@ -1,0 +1,33 @@
+body {
+    background-image: url('battleship.jpg');
+    background-size: cover;
+    background-position: center;
+}
+table {
+            margin: 20px auto;
+            border-collapse: collapse;
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+        th, td {
+            padding: 12px 20px;
+            border: 1px solid #4e0000ff;
+        }
+        th {
+            background-color: #041825ff;
+            color: white;
+        }
+        td {
+            background-color: #79a0afff;
+            color: #333;
+        }
+        h2 {
+            color: #000000ff;
+        }
+        h3 {
+            color: #522603ff;
+        }
+        h1 {
+            color: #9e0303ff;
+        }
+        

@@ -1,0 +1,8 @@
+[
+  {"sifra":101, "naziv":"Laptop", "kolicina":5, "cijena":800},
+  {"sifra":102, "naziv":"Mobitel", "kolicina":10, "cijena":500},
+  {"sifra":103, "naziv":"Tipkovnica", "kolicina":20, "cijena":30},
+  {"sifra":104, "naziv":"Monitor", "kolicina":40, "cijena":350},
+  {"sifra":105, "naziv":"Procesor", "kolicina":70, "cijena":750},
+  {"sifra":106, "naziv":"Printer", "kolicina":100, "cijena":258}
+]

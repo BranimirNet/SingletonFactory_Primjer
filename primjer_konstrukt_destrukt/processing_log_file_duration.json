@@ -1,0 +1,104 @@
+[
+    {
+        "action": "start_processing",
+        "time": "2025-11-10 20:50:43",
+        "processing": true,
+        "processed": 0
+    },
+    {
+        "action": "in_progress",
+        "time": "2025-11-10 20:50:43",
+        "processing": true,
+        "processed": 1
+    },
+    {
+        "action": "in_progress",
+        "time": "2025-11-10 20:50:45",
+        "processing": true,
+        "processed": 2
+    },
+    {
+        "action": "in_progress",
+        "time": "2025-11-10 20:50:47",
+        "processing": true,
+        "processed": 3
+    },
+    {
+        "action": "in_progress",
+        "time": "2025-11-10 20:50:49",
+        "processing": true,
+        "processed": 4
+    },
+    {
+        "action": "in_progress",
+        "time": "2025-11-10 20:50:51",
+        "processing": true,
+        "processed": 5
+    },
+    {
+        "action": "end_processing",
+        "time": "2025-11-10 20:50:53",
+        "processing": false,
+        "total_processed": 5
+    },
+    {
+        "action": "start_processing",
+        "time": "2025-11-10 21:04:20",
+        "processing": true,
+        "processed": 0
+    },
+    {
+        "action": "end_processing",
+        "time": "2025-11-10 21:04:20",
+        "processing": false,
+        "total_processed": 0
+    },
+    {
+        "action": "start_processing",
+        "time": "2025-11-10 21:04:21",
+        "processing": true,
+        "processed": 0
+    },
+    {
+        "action": "in_progress",
+        "time": "2025-11-10 21:04:21",
+        "processing": true,
+        "processed": 1
+    },
+    {
+        "action": "in_progress",
+        "time": "2025-11-10 21:04:23",
+        "processing": true,
+        "processed": 2
+    },
+    {
+        "action": "in_progress",
+        "time": "2025-11-10 21:04:25",
+        "processing": true,
+        "processed": 3
+    },
+    {
+        "action": "in_progress",
+        "time": "2025-11-10 21:04:27",
+        "processing": true,
+        "processed": 4
+    },
+    {
+        "action": "in_progress",
+        "time": "2025-11-10 21:04:29",
+        "processing": true,
+        "processed": 5
+    },
+    {
+        "action": "in_progress",
+        "time": "2025-11-10 21:04:31",
+        "processing": true,
+        "processed": 6
+    },
+    {
+        "action": "end_processing",
+        "time": "2025-11-10 21:04:33",
+        "processing": false,
+        "total_processed": 6
+    }
+]
