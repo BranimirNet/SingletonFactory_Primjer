@@ -21,6 +21,8 @@ class JsonDB {
         }
         $data[] = $record;
         file_put_contents($filename, json_encode($data, JSON_PRETTY_PRINT), LOCK_EX);
+
+        echo "<br>Zapisano u $filename!";
     }
 }
 
